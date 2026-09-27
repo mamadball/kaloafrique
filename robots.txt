@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaloafrique.com/sitemap.xml
